@@ -12,8 +12,6 @@ Tampilannya;
 ![Cuplikan layar 2025-06-03 222725](https://github.com/user-attachments/assets/4bf065ea-7043-4ccf-aecb-22dc12f7961a)
 
 
-
-
 Menampilan Todolist Login
 
 Programnya;
@@ -25,8 +23,6 @@ Programnya;
 Tampilannya;
 
 ![Cuplikan layar 2025-06-03 222746](https://github.com/user-attachments/assets/64957c56-64db-4c81-bc61-13ca71f1bed8)
-
-
 
 
 Menampilan Todolist Dashboard
