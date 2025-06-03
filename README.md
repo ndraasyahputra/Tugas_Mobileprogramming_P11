@@ -29,8 +29,7 @@ Menampilan Todolist Dashboard
 
 Programnya;
 
-![Cuplikan layar 2025-06-03 225244](https://github.com/user-attachments/assets/d8aac2e1-67f2-4249-9578-97ea85d1ce40)
-
+![Cuplikan layar 2025-06-03 230657](https://github.com/user-attachments/assets/518655a3-c456-4817-bf32-31536301ca83)
 
 Tampilannya;
 
